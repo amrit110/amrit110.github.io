@@ -34,7 +34,7 @@ include:
 
 author:
   name   : "Amrit"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Coding..."
   links:
     - label: "Twitter"
