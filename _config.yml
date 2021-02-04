@@ -35,4 +35,8 @@ author:
   location: "Earth"
   links:
     - label: "github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/amrit110"
+    - label: "twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/amritk110"
