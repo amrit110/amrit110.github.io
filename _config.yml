@@ -19,7 +19,7 @@ twitter_username: amritk110
 github_username:  amrit110
 
 # Build settings
-remote_theme: "amrit110/minimal-mistakes"
+remote_theme: "amrit110/minimal-mistakes" # point to my fork
 minimal_mistakes_skin: dark
 plugins:
   - jekyll-remote-theme
