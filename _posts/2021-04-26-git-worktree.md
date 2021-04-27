@@ -20,11 +20,11 @@ Then, after I come back to that working branch, I've usually forgotten what I wa
 Can you relate to this? No? You guys love stashing? In that case, you can skip 
 the rest of this post.
 
-Enter git worktree, it allows you maintain independent copies of the repo, where
+Enter git worktree, it allows you to maintain independent copies of the repo, where
 each copy is a working branch at the same time!
 
 All you need to do to get started is, get rid of your old repo (ah ah ah not so fast!,
-as much as you'd like to, don't `rm -rf <repo>` before you commit your local changes 
+as much as you'd like to, don't `rm -rf <repo>` before you commit and push your local changes 
 to your remote copy). So with a clean slate, let's start with
 
 ```bash
