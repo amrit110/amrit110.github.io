@@ -23,7 +23,8 @@ Enter git worktree, it allows you maintain independent copies of the repo, where
 each copy is a working branch at the same time!
 
 All you need to do to get started is, get rid of your old repo (ah ah ah not so fast!,
-don't `rm -rf <repo>` before you commit everything to your remote copy).
+don't `rm -rf <repo>` as much as you'd like to before you commit your local changes 
+to your remote copy). So with a clean slate, let's start with
 
 ```bash
 git clone --bare <https://github.com/you/your_repo.git> your_repo
