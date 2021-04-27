@@ -8,9 +8,10 @@ and it has been a game changer. I do not use these words lightly.
 
 One of the silent pain points of using git for me which was agonizing at times, 
 was when working on code locally in multiple branches simultaneously. 
-Each branch usually has a small new feature which adds on top of the main branch, 
-or some branches have code that is specific to certain projects or new releases, which have 
-deviated quite a bit from the main stable branch and live on a world of its own.
+Each branch usually has a small new feature under development which wishes to add 
+on top of the main branch, or some branches have code that is specific to 
+certain projects or new releases, which have deviated quite a bit from the main 
+stable branch and live on a world of its own.
 
 When switching between branches, it was always messy. I had to stash code or 
 commit them with half-baked commit messages which don't fully describe the feature 
