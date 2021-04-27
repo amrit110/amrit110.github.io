@@ -6,19 +6,21 @@ published: true
 I recently discovered [`git-worktree`](https://git-scm.com/docs/git-worktree)
 and it has been a game changer. I do not use these words lightly.
 
-One of the silent pain points of using git for me has always been when working on
-code in multiple branches. Each branch usually has a small new feature which adds 
-on top of the main branch, or some branches have code that is specific to certain 
-projects, which have deviated quite a bit from the main branch and live on a world of  
-its own.
+One of the silent pain points of using git for me which was agonizing at times, 
+was when working on code locally in multiple branches simultaneously. 
+Each branch usually has a small new feature which adds on top of the main branch, 
+or some branches have code that is specific to certain projects or new releases, which have 
+deviated quite a bit from the main stable branch and live on a world of its own.
 
 When switching between branches, it was always messy. I had to stash code or 
-commit them with half-baked commit messages which don't fully describe the feature.
+commit them with half-baked commit messages which don't fully describe the feature 
+because hey! the feature isn't fully done yet.
 Then, after I come back to that working branch, I've usually forgotten what I was doing.
-Sound familiar?
+Can you relate to this? No? You guys love stashing? In that case, you can skip 
+the rest of this post.
 
 Enter git worktree, it allows you maintain independent copies of the repo, where
-each copy could be a working branch at the same time!
+each copy is a working branch at the same time!
 
 All you need to do to get started is, get rid of your old repo (ah ah ah not so fast!,
 don't `rm -rf <repo>` before you commit everything to your remote copy).
@@ -27,9 +29,9 @@ don't `rm -rf <repo>` before you commit everything to your remote copy).
 git clone --bare <https://github.com/you/your_repo.git> your_repo
 ```
 
-Now when you when change directory to your repo, you will notice that it doesn't 
+Now when you change directory to your repo, you will notice that it doesn't 
 look like your repo at all. There are all these files and folders like `HEAD`, `config`,
-`refs`, `worktrees`, etc. Don't Panic! This is a bare worktree, and the files and other
+`refs`, `worktrees`, etc. Don't Panic! This is a bare worktree of your repo, and the files and other
 stuff you see are what's needed in the local copy of the repo to enable you to use worktrees
 and take advantage of the corresponding workflow.
 
