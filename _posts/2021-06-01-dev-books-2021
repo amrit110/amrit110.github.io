@@ -1,0 +1,19 @@
+---
+title: "My developer's reference book collection 2021!"
+layout: single
+published: true
+---
+![splash](/assets/images/dev_books_2021.jpg)
+During the last year or so, since we have all been struck by the 
+"pandemic phenomenon", I've had to re-examine my knowledge of
+software development and engineering. One of the things I started to realise 
+as I took a step back was that I needed to understand software on a more 
+wholesome level. 
+
+What the hell do I mean by that? Well for starters, as someone who spends
+a lot of time coding, I was not actually a good software developer. I had 
+a fair understanding of algorithms, math, data structures, computing and software but
+I never really understood how to design and craft good software from scratch. I also
+didn't understand why some software are so robust, easy to use and have minimal maintanance overhead
+while other pieces of software had constant issues, maintanance nightmares and constant 
+refactoring.
