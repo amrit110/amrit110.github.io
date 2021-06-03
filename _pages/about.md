@@ -9,9 +9,11 @@ title: "About"
 * I am a passionate engineer who loves math and programming.
 * That love has led me to become a machine learning and software 
 engineer.
-* I like travelling and have visited and lived in a 
+* I love to learn about different cultures and have lived in a 
 few different places in the world, including Canada, Sweden, 
 Germany, Austria, Singapore, Fiji Islands and of course India.
+* I also love travelling and have travelled across Europe, and 
+have especially loved hiking in Norway, Spain and Switzerland.
 * I'm currently based in Montreal in Canada.
-* I love playing football, tennis and reading. 
+* I love playing football, tennis, biking and reading. 
 * I also love movies and theatre.
