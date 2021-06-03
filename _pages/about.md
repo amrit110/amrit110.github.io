@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-![splash](/assets/images/about-splash.jpg)
+![splash](/assets/images/about-splash-collage.jpg)
 
 * Hi! Welcome to my site. I am Amrit. I'm from Chennai, India. 
 * I am a passionate engineer who loves math and programming.
