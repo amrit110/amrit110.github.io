@@ -68,3 +68,7 @@ P.S. Another cool take away is that since each branch exists in different workin
 depending on your development environment (workflow) and programming language in question, 
 you can save the time needed to reinstall dependencies each time you want switch between 
 branches, assuming they have a different set of dependencies. 
+
+Furthermore imagine you are executing some program from inside a worktree. Since, you would never 
+have to switch branches or stash code, if the program needs the state of the repo to be unchanged while 
+it executes then the isolation provided by worktrees becomes quite convenient.
