@@ -66,7 +66,7 @@ Sigh, never too late I guess 😒.
 
 P.S. Another cool take away is that since each branch exists in different working folders,
 depending on your development environment (workflow) and programming language in question, 
-you can save the time needed to reinstall dependencies each time you want switch between 
+you can save the time needed to reinstall dependencies each time you want to switch between 
 branches, assuming they have a different set of dependencies. 
 
 Furthermore imagine you are executing some program from inside a worktree. Since, you would never 
