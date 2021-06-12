@@ -69,6 +69,6 @@ depending on your development environment (workflow) and programming language in
 you can save the time needed to reinstall dependencies each time you want to switch between 
 branches, assuming they have a different set of dependencies. 
 
-Furthermore imagine you are executing some program from inside a worktree. Since, you would never 
+Furthermore, imagine you are executing some program from inside a worktree. Since you would never 
 have to switch branches or stash code, if the program needs the state of the repo to be unchanged while 
-it executes then the isolation provided by worktrees becomes quite convenient.
+it executes, then the isolation provided by worktrees becomes quite convenient.
