@@ -14,6 +14,6 @@ few different places in the world, including Canada, Sweden,
 Germany, Austria, Singapore, Fiji Islands and of course India.
 * I also love travelling and have travelled across Europe, and 
 have especially loved hiking in Norway, Spain and Switzerland.
-* I'm currently based in Montreal in Canada.
+* I'm currently based in Toronto in Canada.
 * I love playing football, tennis, biking and reading. 
 * I also love movies and theatre.
