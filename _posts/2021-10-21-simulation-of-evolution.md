@@ -6,11 +6,10 @@ published: true
 
 One of the key branches of science that I find myself reading about is that of 
 natural history and theory of evolution. I suppose that after Darwin's era, the
-curiousity to understand our origins, by unmasking the origins of other creatures has
+curiousity to understand our origins, by unmasking the origins of other life forms has
 vastly diminished. Today, we all accept Darwin's theory and have essentially accepted
 our fate as the immediate relatives of apes and chimps in the evolutionary ladder.
 We find comfort in nature's extraordinary ability to create diverse life.
-
 
 Yet, this ability is understood in a very narrow sense. The sheer timescale over
 which life evolved is something we humans cannot comprehend and truly appreciate. 
@@ -43,8 +42,15 @@ that with the right representation, even the most complex of ideas can be explai
 
 Hence, a key implication is that in order to better understand this complexity and push
 the horizons of our understanding of natural history and evolution, we need a visual
-tool. We need an aid that can help overcome our current inability to visualise such a
-complex chain network of interactions.
+tool. We need an aid that can help overcome our current inability to visualise in our minds, such a
+complex chain network of interactions. We need a visual tool that can show one species
+gradually transform into another, how its phenotypic features morph due to selection pressure.
+This tool satisfying our artistic cravings, essential to providing a complete understanding of a concept.
+The visual output if rendered in 3 dimensions or through virtual reality headsets, would present
+a deep and rich understanding, and potentially lead to the discovery of insights 
+with broader and higher levels of abstraction. One example of a very simplistic version
+of such a tool is [evolution-simuator](https://labs.minutelabs.io/evolution-simulator).
+
 
 
 
