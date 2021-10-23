@@ -33,8 +33,10 @@ and how they might have evolved. For every species of butterfly like the famous 
 of co-inhabiting the earth today, we have lost several not-so-monarchy colored butterflies to natural selection.
 When i think about this, I can't help feel that, with all the technology we 
 have at our disposal today, we yet don't have an intuitive way to process these evolutionary dynamics.
-The information is also spread out over several billions of years. However, there are some fundamental
-hierarchies to this information. Using those hierarchies could be very useful to understand how to
+The information is also spread out over several billions of years. 
+
+However, there are some fundamental hierarchies to this information. 
+Using those hierarchies could be very useful to understand how to
 represent the information in a way that could be more intuitive. For example, the famous shroedinger's cat 
 thought experiment made everyone easily understand a complex concept in quantum mechanics i.e. the idea that
 a particle could exist in two states simultaneously until a measurement is made, revealing its actual state. 
