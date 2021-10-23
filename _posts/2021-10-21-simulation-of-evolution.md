@@ -4,7 +4,7 @@ layout: single
 published: true
 ---
 
-One of the key branches of science that I find myself reading about is that of 
+One of the key branches of science that I find myself reading, is that of 
 natural history and theory of evolution. I suppose that after Darwin's era, the
 curiousity to understand our origins, by unmasking the origins of other life forms has
 vastly diminished. Today, we all accept Darwin's theory and have essentially accepted
@@ -19,8 +19,9 @@ used to comprehend (i.e. 10 raised to the power of 9 vs 100). There are a couple
 interesting implications for us that arise from this incomprehensible time-scale.
 One, we simply cannot fathom the complexity of the mechanisms that emerged out of 
 the interactions between the building blocks of life, because this time-scale is too large and 
-a fine-grained inspection is a gargantuan task. Let's consider an example. Just think
-about all the different forms of mammals, and the differences in their appearance. The 
+a fine-grained inspection is a gargantuan task. 
+
+Let's consider an example. Just think about all the different forms of mammals, and the differences in their appearance. The 
 different colors and thicknesses of fur, length of their noses, puffiness of their tails,
 length of their spines or necks and whether they would have paws or hooves or toes. Its a
 combinatorial explosion. Yet, each of these features evolved steadily over several generations,
