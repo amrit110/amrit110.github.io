@@ -4,6 +4,9 @@ layout: single
 published: true
 ---
 
+*Disclaimer*: This is a random idea, and more of an excercise in writing out abstract thoughts
+than an attempt at writing a technical post.
+
 One of the key branches of science that I find myself reading, is that of 
 natural history and theory of evolution. I suppose that after Darwin's era, the
 curiousity to understand our origins, by unmasking the origins of other life forms has
